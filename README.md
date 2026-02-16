@@ -51,7 +51,7 @@ This section shows languages/platforms I am currently learning to use.
 ![](Projects/Forward/ForwardCode.png)
 
 Forward is a very explicit, general purpose imperative & interpreted programming language implemented in C++. \
-[Learn More]()
+[Learn More (Coming soon...)]()
 
 ![](Assets/NewBloodRapier.png)![](Assets/NewBloodRapier.png)![](Assets/NewBloodRapier.png)
 
